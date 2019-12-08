@@ -1,0 +1,37 @@
+header{
+    background:grey;
+}
+.hidden{
+    display:none;
+}
+.logo{
+    color:white;
+    text-align:center;
+    font-size:30px;
+}
+.newsComponent{
+    background:rgb(214, 209, 209);
+    height:250px;
+    width:40%;
+    border:10px;
+    border-color:teal;
+    border-style: groove;
+    display: inline-table;
+    padding-left: 34px;
+
+}
+/* input{
+margin:10px;
+} */
+li{
+   
+    font-size: 20px;
+}
+ul{
+    list-style-type: circle;
+    display: inline;
+}
+.green{
+    color:green;
+    font-weight:bold;
+}
